@@ -12,10 +12,10 @@ namespace G_NET_12_Adv01
         {
 
             #region adv01
-            //Q1: What is a generic class? Why use generics?
-            //A generic class is a class that works with any data type using a placeholder(like T).
+            //Q1: What is a generic class? Why use generics?.
+            //A generic class is a class that works with any data type using a placeholder(like T)..
 
-            //Why use generics:
+            //Why use generics:.
 
             //-Code reuse
             //-Type safety(no casting)
